@@ -1,0 +1,46 @@
+body
+{
+    background-color: thistle;
+}
+
+
+
+
+.main-heading
+{
+    color: cadetblue;
+    text-align: center;
+    font-size: 45px;
+}
+a
+{
+    margin-top: 20px;
+    font-size: 27px;
+    text-decoration: none;
+    color: teal;
+}
+
+.wrapper{
+    display: flex;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+.recipe-wrapper
+{
+    border: 2px solid royalblue;
+    background-color: burlywood;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hgz
+{
+    width: 200px;
+    text-align: center
+    
+    ;
+}
