@@ -19,6 +19,11 @@ a
     text-decoration: none;
     color: teal;
 }
+a:hover
+{
+    font-size:30px;
+    color: slateblue;
+}
 
 .wrapper{
     display: flex;
