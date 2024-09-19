@@ -1,0 +1,41 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: royalblue;
+}
+
+.main-div
+{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-img
+{
+    height: 150px;
+    width: 250px;
+    border: 2px solid royalblue;
+}
+
+.sub-div
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
